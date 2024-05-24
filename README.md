@@ -12,3 +12,4 @@ xcode15待适配的功能 PrivacyInfo.xcprivacy
 
  App 中常用的第三方 SDK:
  - https://developer.apple.com/cn/support/third-party-SDK-requirements/
+ - https://blog.csdn.net/lyh1083908486/article/details/137250581
